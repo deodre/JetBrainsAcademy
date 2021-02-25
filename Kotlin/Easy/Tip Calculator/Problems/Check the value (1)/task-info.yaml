@@ -1,0 +1,12 @@
+type: code
+custom_name: Check the value
+files:
+- name: Main.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4531#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 23 Feb 2021 18:19:03 UTC
+record: -1

@@ -1,0 +1,15 @@
+type: code
+custom_name: val or var?
+files:
+- name: Main.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7307#comment
+status: Solved
+feedback:
+  message: |-
+    <html>The first way is to make the variable `var`. The second is to remove the second line and change the value in the first line.
+
+    </html>
+  time: Sun, 21 Feb 2021 15:05:25 UTC
+record: -1
