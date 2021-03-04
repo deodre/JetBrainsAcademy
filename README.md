@@ -7,9 +7,9 @@ A repository with my take on JetBrains Academy projects
     - Coffee Machine
     - Simple Chatty Bot
     - Tic-Tac-Toe
-    - Bulls and Cows
     - Cinema Room Manager
   - Medium
+    - Bulls and Cows
     - Battleship
 - Kotlin Developer
   - Easy
